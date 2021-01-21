@@ -1,4 +1,6 @@
 <RCC>
-    <qresource prefix="MainWindow">
+    <qresource prefix="/MainWindow"/>
+    <qresource prefix="/images">
+        <file>Resources/images/smartHomeWizard.png</file>
     </qresource>
 </RCC>
